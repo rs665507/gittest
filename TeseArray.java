@@ -15,6 +15,8 @@ public class TeseArray {
 				{13, 17, 20}
 		};
 		
+		int cat = 1;
+		
 		int[][] z = new int[3][3];
 		
 		System.out.println() ;
