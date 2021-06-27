@@ -19,6 +19,8 @@ public class TeseArray {
 		int cat2 = 2;
 		int cat3 = 3;
 		
+		int dog = 1;
+		
 		int[][] z = new int[3][3];
 		
 		System.out.println() ;
