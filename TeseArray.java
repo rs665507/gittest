@@ -15,7 +15,7 @@ public class TeseArray {
 				{13, 17, 20}
 		};
 		
-		int cat = 1;
+		int dog = 11;
 		
 		int dog = 1;
 		int cat2 = 2;
