@@ -14,13 +14,12 @@ public class TeseArray {
 				{2, 9, 27},
 				{13, 17, 20}
 		};
-		int cat = 1;
 
-		
+		int dog = 11;
 		int cat2 = 2;
 		int cat3 = 3;
 
-		int dog = 11;
+		
 
 		
 		int dog = 1;
