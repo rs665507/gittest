@@ -14,9 +14,9 @@ public class TeseArray {
 				{2, 9, 27},
 				{13, 17, 20}
 		};
-		
-<<<<<<< HEAD
 		int cat = 1;
+<<<<<<< HEAD
+		
 		int cat2 = 2;
 		int cat3 = 3;
 =======
