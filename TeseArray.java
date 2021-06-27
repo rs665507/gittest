@@ -17,6 +17,7 @@ public class TeseArray {
 		
 		int cat = 1;
 		int cat2 = 2;
+		int cat3 = 3;
 		
 		int[][] z = new int[3][3];
 		
