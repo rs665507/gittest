@@ -15,13 +15,13 @@ public class TeseArray {
 				{13, 17, 20}
 		};
 		int cat = 1;
-<<<<<<< HEAD
+
 		
 		int cat2 = 2;
 		int cat3 = 3;
-=======
+
 		int dog = 11;
->>>>>>> dog
+
 		
 		int dog = 1;
 		int cat2 = 2;
